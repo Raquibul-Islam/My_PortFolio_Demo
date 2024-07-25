@@ -1,1 +1,1 @@
-Language used: PHP, HTML, CSS, 
+Language used: PHP, HTML, CSS
